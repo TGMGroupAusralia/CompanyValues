@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/CompanyValues/CompanyValuesWebPart.js",
+      "manifest": "./src/webparts/CompanyValues/CompanyValuesWebPart.manifest.json",
+      "outputPath": "./dist/company-values-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "CompanyValuesWebPartStrings": "webparts/CompanyValues/loc/{locale}.js"
+  }
+}

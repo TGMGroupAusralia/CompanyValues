@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "company-values-client-side-solution",
+    "id": "e1b59053-b832-4179-889a-23a316c1bfbd",
+    "version": "1.0.0.1",
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/company-values.sppkg"
+  }
+}
